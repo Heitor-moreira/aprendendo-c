@@ -1,15 +1,15 @@
-//
-//  main.c
 //  multiplica numeros
 //
 //  Created by Heitor Moreira on 28/07/26.
 //
 
-#include <stdlib.h>
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
-    return EXIT_SUCCESS;
+int main (void)
+{
+    int var1 = 8;
+    int var2 = 8;
+    int var3 = var1 * var2;
+    printf("O resultado é: %d\n", var3);
+    return 0;
 }
