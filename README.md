@@ -7,3 +7,4 @@ Veja a lista completa de exercícios em [Lista de Exercícios 1](docs/Introd_Co
 ## Exercícios
 - 01 - Multiplica dois números inteiros
 - 02 - Calcula área de um retângulo
+- 03 - Calcula a area do terreno usando variavel X
