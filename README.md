@@ -1,6 +1,6 @@
 # Aprendendo C
 
-Repositório com exercícios de programação em C, desenvolvidos durante a disciplina Introducao a computacao  no UNISAL.
+Repositório com exercícios de programação em C, desenvolvidos durante a disciplina Introdução a computaçãoo no UNISAL.
 
 Veja a lista completa de exercícios em [Lista de Exercícios 1](docs/Introd_Comput_lista_1.pdf).
 
